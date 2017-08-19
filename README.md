@@ -29,6 +29,8 @@ Put this into your init.sqf
 execVM "grad-crows\init.sqf";
 ```
 
+# Preview
+https://youtu.be/0JsWLhsMLOc
 
 
 made for

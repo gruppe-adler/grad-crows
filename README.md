@@ -30,8 +30,7 @@ execVM "grad-crows\init.sqf";
 ```
 
 # Preview
-https://youtu.be/0JsWLhsMLOc
-
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/0JsWLhsMLOc/0.jpg)](https://www.youtube.com/watch?v=0JsWLhsMLOc)
 
 made for
 http://www.gruppe-adler.de

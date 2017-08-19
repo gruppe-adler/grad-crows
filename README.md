@@ -25,7 +25,9 @@ class cfgSounds {
 ```
 3)
 Put this into your init.sqf
-`execVM "grad-crows\init.sqf";`
+```
+execVM "grad-crows\init.sqf";
+```
 
 
 

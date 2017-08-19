@@ -27,6 +27,7 @@ class cfgSounds {
 Put this into your init.sqf
 `execVM "grad-crows\init.sqf";`
 
-4) done
 
+
+made for
 http://www.gruppe-adler.de
